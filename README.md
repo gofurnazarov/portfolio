@@ -1,9 +1,9 @@
 # Portfolio
 
-- PSD to HTML & CSS Converter tool
-URL: https://psdtohtmlcssconverter.com 
+- PSD to HTML & CSS Converter tool <br />
+URL: https://psdtohtmlcssconverter.com <br />
 Built using: JavaScript and Laravel
 
-- Chateg - a real time random chat app
-URL: https://github.com/gofurnazarov/chateg 
+- Chateg - a real time random chat app <br />
+URL: https://github.com/gofurnazarov/chateg <br />
 Built using: VueJs and NodeJs
